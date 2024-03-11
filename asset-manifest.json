@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/testvalantis/static/css/main.6f1e148e.css",
+    "main.js": "/testvalantis/static/js/main.ea7f298f.js",
+    "static/media/goldenRing3.jpeg": "/testvalantis/static/media/goldenRing3.5d7c87e6163603ff81e2.jpeg",
+    "index.html": "/testvalantis/index.html",
+    "main.6f1e148e.css.map": "/testvalantis/static/css/main.6f1e148e.css.map",
+    "main.ea7f298f.js.map": "/testvalantis/static/js/main.ea7f298f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f1e148e.css",
+    "static/js/main.ea7f298f.js"
+  ]
+}
